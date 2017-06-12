@@ -680,7 +680,7 @@ cc_library_static {
                     "upstream-openbsd/lib/libc/string/strcat.c",
                 ],
             },
-            krait: {
+            kryo: {
                 exclude_srcs: [
                     "upstream-openbsd/lib/libc/string/memmove.c",
                     "upstream-openbsd/lib/libc/string/stpcpy.c",
